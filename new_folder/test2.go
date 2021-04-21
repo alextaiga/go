@@ -1,7 +1,5 @@
 package new_folder
 
-import "fmt"
-
-func CoolFunc2() {
-	fmt.Println("Hello!")
+func CoolFunc2() string {
+	return "Hello"
 }
