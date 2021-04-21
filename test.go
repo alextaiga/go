@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func CoolFunc() {
-	fmt.Println("Hello!")
+	fmt.Println(" World!")
 }
