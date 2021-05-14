@@ -1,4 +1,4 @@
-package new_folder
+package test
 
 func CoolFunc2() string {
 	return "Hello"
